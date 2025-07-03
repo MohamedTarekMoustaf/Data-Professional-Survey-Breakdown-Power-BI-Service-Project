@@ -1,5 +1,6 @@
 This Power BI report provides an interactive analysis of survey responses collected from data professionals, focusing on time spent, participation trends, and industry distribution over time.
 
+![Alt Text](Visual_Report.png)
 🟢 Project Overview
 The dashboard enables stakeholders to:
 
