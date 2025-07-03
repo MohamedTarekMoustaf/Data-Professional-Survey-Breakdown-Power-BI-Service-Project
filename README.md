@@ -77,5 +77,3 @@ Survey administrators track engagement patterns.
 Data teams identify dates with low participation.
 
 Stakeholders gain a clear, visual summary of response behavior.
-
-Feel free to adjust or expand this text depending on your project goals or audience. If you want, I can also help you write badges, add installation steps, or create visuals for the README.
