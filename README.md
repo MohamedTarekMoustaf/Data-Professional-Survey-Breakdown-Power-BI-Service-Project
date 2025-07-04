@@ -1,5 +1,10 @@
 This Power BI report was automatically created on the Power BI Service (Software as a service: Saas). It provides an interactive analysis of survey responses collected from data professionals, focusing on time spent, participation trends, and industry distribution over time.
 
+The dashboard in the following image was an automatically created report using Power BI Service through the following steps:
+1. Data Transformation and Dashboard Building using Power BI Desktop.
+2. Report Publishing from Power BI Desktop to "My workspace" in Power BI Service. (See the lineage view of the published semantic model with the associated reports)
+3. Automatic Report Creation using Power BI Service. 
+
 ![Alt Text](Visual_Report.png)
 🟢 Project Overview
 The dashboard enables stakeholders to:
