@@ -5,7 +5,7 @@ The dashboard in the following image was an automatically created report using P
 2. Report "Final_Project.pbix" Publishing from Power BI Desktop to "My workspace" in Power BI Service. (**See the lineage view of the published semantic model with the associated reports**)
 
 ![Alt Text](Lineage_View.png)
-3. Automatic Report Creation using Power BI Service. 
+3. Automatic Report Creation using Power BI Service. I would like to share the link with you <code style="color : blue">[text](https://app.powerbi.com/links/SsPsKqEBwZ?ctid=b133c8f3-5f01-4625-8855-bcddd5f5fae1&pbi_source=linkShare)</code>
 
 ![Alt Text](Visual_Report.png)
 🟢 **Project Overview**
