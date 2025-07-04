@@ -2,7 +2,7 @@ This Power BI report was automatically created on the Power BI Service (Software
 
 The dashboard in the following image was an automatically created report using Power BI Service through the following steps:
 1. Data Transformation and Dashboard Building using Power BI Desktop.
-2. Report Publishing from Power BI Desktop to "My workspace" in Power BI Service. (**See the lineage view of the published semantic model with the associated reports**)
+2. Report "final_project.pbix" Publishing from Power BI Desktop to "My workspace" in Power BI Service. (**See the lineage view of the published semantic model with the associated reports**)
 
 ![Alt Text](Lineage_View.png)
 3. Automatic Report Creation using Power BI Service. 
